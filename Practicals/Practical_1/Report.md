@@ -55,7 +55,6 @@ This practical demonstrates:
 
 The pipeline ensures reliability, reproducibility, and real-time visibility of software quality.  
 
-#### Github Repository 
-```
+### Github Repository link
+
 https://github.com/Kinleyjigs/AS2025_SWE302_02230313_practical1.git
-```
