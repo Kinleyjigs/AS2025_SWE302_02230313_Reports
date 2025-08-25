@@ -91,13 +91,13 @@ To implement and test a simple Go HTTP server with CRUD operations for an in-mem
 
 - **Terminal Commands:**  
 
-![alt text](<Screenshot 2025-08-25 at 10.11.12 PM.png>)
+![alt text](<practical2_images/Screenshot 2025-08-25 at 10.11.12 PM.png>)
 
-![alt text](<Screenshot 2025-08-25 at 10.12.34 PM.png>)
+![alt text](<practical2_images/Screenshot 2025-08-25 at 10.12.34 PM.png>)
 
 - **Code Coverage UI:**  
 
-![alt text](<Screenshot 2025-08-25 at 10.13.44 PM.png>)
+![alt text](<practical2_images/Screenshot 2025-08-25 at 10.13.44 PM.png>)
 
 ### Analysis & Reflection
 
