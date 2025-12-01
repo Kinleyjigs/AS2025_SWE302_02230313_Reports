@@ -194,7 +194,7 @@ Achieved **92.5%** test coverage across all repository functions (significantly 
 
 ### Conclusion
 
-Practical 5 demonstrates how TestContainers enables robust integration testing against real PostgreSQL databases. The approach achieves 92.5% test coverage across 17+ test cases, validating CRUD operations, advanced queries, and transaction handling. Testing against real database instances catches bugs that mocks miss, providing genuine confidence in code correctness while maintaining CI/CD compatibility.
+This practical demonstrates us how TestContainers enables robust integration testing against real PostgreSQL databases. The approach achieves 92.5% test coverage across 17+ test cases, validating CRUD operations, advanced queries, and transaction handling. Testing against real database instances catches bugs that mocks miss, providing genuine confidence in code correctness while maintaining CI/CD compatibility.
 
 Key achievements: comprehensive test coverage, proper transaction handling, pattern matching with ILIKE, date-based filtering, and complete container lifecycle management.
 
