@@ -12,18 +12,6 @@ Key achievements include detecting and fixing three high/medium security issues 
 
 ---
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Understanding DAST](#understanding-dast)
-3. [Implementation Strategy](#implementation-strategy)
-4. [Technical Implementation](#technical-implementation)
-5. [Results and Evidence](#results-and-evidence)
-6. [Challenges and Solutions](#challenges-and-solutions)
-7. [Key Learnings](#key-learnings)
-8. [Conclusion](#conclusion)
-
----
-
 ## Introduction
 
 ### Overview
@@ -1038,3 +1026,7 @@ This practical demonstrates that runtime security testing is indispensable in mo
 By combining SAST and DAST, a comprehensive, automated security pipeline has been established that detects vulnerabilities early, provides actionable feedback, and enables secure, rapid software delivery. The progressive scanning strategy ensures developers receive immediate security feedback without development friction, while comprehensive weekly scans maintain rigorous security standards.
 
 ---
+
+### Repository
+
+https://github.com/Kinleyjigs/AS2025_SWE302_02230313_practical4b 
